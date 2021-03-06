@@ -1,0 +1,8 @@
+{
+  "name": "vanilla_calendar",
+  "version": "1.0.0",
+  "description": "calendar for vanilla JS",
+  "main": "index.js",
+  "repository": "https://github.com/ryong9rrr/vanilla-calendar.git",
+  "license": "MIT"
+}
